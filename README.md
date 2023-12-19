@@ -1,2 +1,3 @@
 # Samip
-My first repository
+My first repositor.
+Author-Samip Nepal
