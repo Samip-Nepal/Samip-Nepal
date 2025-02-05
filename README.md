@@ -1,5 +1,5 @@
 # 💫 About Me:
-As dedicated frontend developer, I'm passionate about crafting engaging and user-friendly web experiences. I have a strong foundation in JavaScript, HTML, and CSS, and I'm currently learning React. I'm always eager to learn new technologies and stay up-to-date with the latest trends in web development.
+As dedicated frontend developer,with flutter developer I'm passionate about crafting engaging and user-friendly web experiences. I have a strong foundation in JavaScript, HTML, and CSS, and I'm currently learning React. I'm always eager to learn new technologies and stay up-to-date with the latest trends in web development.
 
 
 ## 🌐 Socials:
