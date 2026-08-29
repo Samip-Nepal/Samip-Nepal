@@ -1,11 +1,28 @@
-# 💫 About Me:
-As dedicated App developer,with flutter developer I'm passionate about crafting engaging and user-friendly app experiences. I have a strong foundation in JavaScript, HTML, CSS,Tyoescript and I'm currently learning flutter. I'm always eager to learn new technologies and stay up-to-date with the latest trends in web development.
 
+# 💫 About Me:
+Backend developer focused on Java and Spring Boot, with hands-on experience in Spring Security, JWT, JPA/Hibernate, and PostgreSQL. Also comfortable working on the frontend with React.js, and familiar with NestJS and TypeScript. Currently building an independent Lease Management System and always looking to sharpen my backend engineering skills.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nepal.kanxa.9)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samip-nepal-60383b2b4/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nepal.kanxa.9)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samip-nepal-60383b2b4/)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=flat&logo=firefox&logoColor=white)](https://samipnepal.com.np)
 
 ## 💻 Tech Stack
+
+### ☕ Backend
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### 🗄️ Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
 
 ### 🧑‍💻 Programming & Web
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -13,7 +30,7 @@ As dedicated App developer,with flutter developer I'm passionate about crafting 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
 
@@ -23,19 +40,32 @@ As dedicated App developer,with flutter developer I'm passionate about crafting 
 
 ---
 
-### 🎨 UI / UX & Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### 🛠️ IDE & Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 🚀 Currently Builded
+- 🏠 **Lease Management System** — Java, Spring Boot, React.js, PostgreSQL, JWT, Docker
+- 📦 **Inventory Management System** — NestJS, TypeORM, MySQL ([repo](https://github.com/Samip-Nepal/Inventory-Mangement-System))
+
+## 🏆 Achievements
+- Took part in the **IdeaX Hackathon** with an original project idea
+
+## 📫 Reach Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samipnepal5@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Samip-Nepal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Samip-Nepal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samip-Nepal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🏅 Trophies
+![](https://github-profile-trophy.vercel.app/?username=Samip-Nepal&theme=darkhub&no-frame=true&row=1&column=6)
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Samip-Nepal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Samip-Nepal&limit=5&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Samip-Nepal&icon=5&color=1)](https://visitcount.itsvg.in)
