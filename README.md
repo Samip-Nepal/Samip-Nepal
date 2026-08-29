@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=220&section=header&text=Hi%20👋,%20I'm%20Samip%20Nepal&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/Samip-Nepal">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%7C+Java+%26+Spring+Boot;JWT+%2F+Spring+Security+%2F+JPA+%2F+PostgreSQL;Also+comfortable+with+React.js+%26+NestJS;Currently+building+Lease+Management+System;&font=Fira+Code&center=true&width=600&height=45&color=1BFFFF&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%7C+Java+%26+Spring+Boot;JWT+%2F+Spring+Security+%2F+JPA+%2F+PostgreSQL;Also+comfortable+with+React.js+%26+NestJS;&font=Fira+Code&center=true&width=600&height=45&color=000000&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
 </a>
 
 </div>
@@ -63,22 +62,10 @@ Backend developer focused on Java and Spring Boot, with hands-on experience in S
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Samip-Nepal&theme=radical&hide_border=true" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samip-Nepal&theme=radical&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samip-Nepal&theme=radical&hide_border=true&layout=compact" width="48%"/>
-
-### 🏅 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Samip-Nepal&theme=onedark&no-frame=true&row=1&column=6" />
 
 ### 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/Samip-Nepal/Samip-Nepal/output/github-contribution-grid-snake.svg" width="100%"/>
-
-### 📌 Featured Repos
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samip-Nepal&repo=Inventory-Mangement-System&theme=radical&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Samip-Nepal&repo=Samip-Nepal&theme=radical&hide_border=true" width="48%"/>
-
-<br/>
 
 [![](https://visitcount.itsvg.in/api?id=Samip-Nepal&icon=5&color=1)](https://visitcount.itsvg.in)
 
